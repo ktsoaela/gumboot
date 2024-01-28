@@ -1,0 +1,3 @@
+[console_scripts]
+gumboot = gumboot.cli:main
+

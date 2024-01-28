@@ -1,0 +1,9 @@
+README.md
+setup.py
+gumboot/__init__.py
+gumboot/cli.py
+gumboot.egg-info/PKG-INFO
+gumboot.egg-info/SOURCES.txt
+gumboot.egg-info/dependency_links.txt
+gumboot.egg-info/entry_points.txt
+gumboot.egg-info/top_level.txt
